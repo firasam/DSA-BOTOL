@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>20180502_194138.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2988</width>
+    <height>5312</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>733</xmin>
+      <ymin>247</ymin>
+      <xmax>2131</xmax>
+      <ymax>4384</ymax>
+    </bndbox>
+  </object>
+</annotation>
