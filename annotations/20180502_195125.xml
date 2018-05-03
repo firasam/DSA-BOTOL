@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/deni</folder>
+  <filename>20180502_195125.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>5312</width>
+    <height>2988</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>694</xmin>
+      <ymin>36</ymin>
+      <xmax>3520</xmax>
+      <ymax>2781</ymax>
+    </bndbox>
+  </object>
+</annotation>
