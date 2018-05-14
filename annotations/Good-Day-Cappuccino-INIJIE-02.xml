@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/irfan</folder>
-  <filename>images.jpg</filename>
+  <filename>Good-Day-Cappuccino-INIJIE-02.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>259</width>
-    <height>194</height>
+    <width>650</width>
+    <height>433</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>8</xmin>
-      <ymin>13</ymin>
-      <xmax>232</xmax>
-      <ymax>184</ymax>
+      <xmin>277</xmin>
+      <ymin>124</ymin>
+      <xmax>382</xmax>
+      <ymax>306</ymax>
     </bndbox>
   </object>
 </annotation>

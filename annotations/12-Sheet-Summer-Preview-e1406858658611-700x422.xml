@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/irfan</folder>
-  <filename>images.jpg</filename>
+  <filename>12-Sheet-Summer-Preview-e1406858658611-700x422.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>259</width>
-    <height>194</height>
+    <width>700</width>
+    <height>422</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>8</xmin>
-      <ymin>13</ymin>
-      <xmax>232</xmax>
-      <ymax>184</ymax>
+      <xmin>388</xmin>
+      <ymin>138</ymin>
+      <xmax>652</xmax>
+      <ymax>235</ymax>
     </bndbox>
   </object>
 </annotation>
