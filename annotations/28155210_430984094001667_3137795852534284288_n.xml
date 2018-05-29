@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/nafi</folder>
+  <filename>28155210_430984094001667_3137795852534284288_n.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>320</width>
+    <height>320</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>132</ymin>
+      <xmax>165</xmax>
+      <ymax>169</ymax>
+    </bndbox>
+  </object>
+</annotation>

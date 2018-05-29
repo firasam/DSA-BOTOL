@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>images.jpg</filename>
+  <filename>Aqua-Temukan-Indonesiamu-2.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>194</width>
-    <height>259</height>
+    <width>560</width>
+    <height>300</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>78</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>17</xmin>
+      <ymin>137</ymin>
+      <xmax>444</xmax>
+      <ymax>262</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>71</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>15</xmin>
+      <ymin>137</ymin>
+      <xmax>444</xmax>
+      <ymax>262</ymax>
     </bndbox>
   </object>
 </annotation>

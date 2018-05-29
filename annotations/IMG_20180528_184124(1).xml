@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/nafi</folder>
+  <filename>IMG_20180528_184124(1).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1157</xmin>
+      <ymin>1150</ymin>
+      <xmax>1967</xmax>
+      <ymax>2985</ymax>
+    </bndbox>
+  </object>
+</annotation>

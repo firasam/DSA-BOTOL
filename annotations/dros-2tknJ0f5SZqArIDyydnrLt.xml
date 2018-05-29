@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>images.jpg</filename>
+  <filename>dros-2tknJ0f5SZqArIDyydnrLt.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>194</width>
-    <height>259</height>
+    <width>600</width>
+    <height>800</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>78</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>121</xmin>
+      <ymin>0</ymin>
+      <xmax>487</xmax>
+      <ymax>752</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>71</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>121</xmin>
+      <ymin>0</ymin>
+      <xmax>487</xmax>
+      <ymax>768</ymax>
     </bndbox>
   </object>
 </annotation>

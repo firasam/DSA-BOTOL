@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>images.jpg</filename>
+  <filename>IMG_20180528_184156.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>194</width>
-    <height>259</height>
+    <width>3120</width>
+    <height>4160</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>78</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>551</xmin>
+      <ymin>1804</ymin>
+      <xmax>2447</xmax>
+      <ymax>2637</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>71</xmin>
-      <ymin>9</ymin>
-      <xmax>144</xmax>
-      <ymax>257</ymax>
+      <xmin>551</xmin>
+      <ymin>1696</ymin>
+      <xmax>2465</xmax>
+      <ymax>2637</ymax>
     </bndbox>
   </object>
 </annotation>
