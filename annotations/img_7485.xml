@@ -1,5 +1,5 @@
 <annotation>
-  <folder>images/irfan</folder>
+  <folder>images/nafi</folder>
   <filename>img_7485.jpg</filename>
   <segmented>0</segmented>
   <size>
@@ -13,10 +13,34 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>772</xmin>
-      <ymin>283</ymin>
+      <xmin>804</xmin>
+      <ymin>285</ymin>
       <xmax>1054</xmax>
-      <ymax>926</ymax>
+      <ymax>914</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>794</xmin>
+      <ymin>285</ymin>
+      <xmax>1054</xmax>
+      <ymax>914</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>794</xmin>
+      <ymin>298</ymin>
+      <xmax>1054</xmax>
+      <ymax>914</ymax>
     </bndbox>
   </object>
 </annotation>

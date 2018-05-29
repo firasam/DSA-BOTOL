@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>DSC_8911-11.jpg</filename>
+  <filename>MinuteMaidPulpy_1000ml_Indonesia.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>750</width>
-    <height>501</height>
+    <width>220</width>
+    <height>391</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>347</xmin>
-      <ymin>256</ymin>
-      <xmax>437</xmax>
-      <ymax>467</ymax>
+      <xmin>47</xmin>
+      <ymin>17</ymin>
+      <xmax>150</xmax>
+      <ymax>364</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>347</xmin>
-      <ymin>254</ymin>
-      <xmax>437</xmax>
-      <ymax>467</ymax>
+      <xmin>50</xmin>
+      <ymin>17</ymin>
+      <xmax>150</xmax>
+      <ymax>364</ymax>
     </bndbox>
   </object>
   <object>
@@ -37,10 +37,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>249</xmin>
-      <ymin>260</ymin>
-      <xmax>344</xmax>
-      <ymax>469</ymax>
+      <xmin>50</xmin>
+      <ymin>17</ymin>
+      <xmax>151</xmax>
+      <ymax>364</ymax>
     </bndbox>
   </object>
   <object>
@@ -49,22 +49,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>254</xmin>
-      <ymin>260</ymin>
-      <xmax>344</xmax>
-      <ymax>469</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>botol</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>254</xmin>
-      <ymin>256</ymin>
-      <xmax>344</xmax>
-      <ymax>469</ymax>
+      <xmin>50</xmin>
+      <ymin>17</ymin>
+      <xmax>151</xmax>
+      <ymax>364</ymax>
     </bndbox>
   </object>
 </annotation>

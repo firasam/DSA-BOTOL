@@ -1,5 +1,5 @@
 <annotation>
-  <folder>images/irfan</folder>
+  <folder>images/nafi</folder>
   <filename>POCARI-SWEAT-kv_rgb_270617-e1500260885638-700x420.jpg</filename>
   <segmented>0</segmented>
   <size>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>277</xmin>
-      <ymin>117</ymin>
-      <xmax>324</xmax>
-      <ymax>216</ymax>
+      <xmin>279</xmin>
+      <ymin>124</ymin>
+      <xmax>323</xmax>
+      <ymax>211</ymax>
     </bndbox>
   </object>
 </annotation>

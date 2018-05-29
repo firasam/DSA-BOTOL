@@ -1,5 +1,5 @@
 <annotation>
-  <folder>images/irfan</folder>
+  <folder>images/nafi</folder>
   <filename>12-Sheet-Summer-Preview-e1406858658611-700x422.jpg</filename>
   <segmented>0</segmented>
   <size>
@@ -13,10 +13,22 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>388</xmin>
-      <ymin>138</ymin>
-      <xmax>652</xmax>
-      <ymax>235</ymax>
+      <xmin>394</xmin>
+      <ymin>143</ymin>
+      <xmax>645</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>394</xmin>
+      <ymin>143</ymin>
+      <xmax>645</xmax>
+      <ymax>232</ymax>
     </bndbox>
   </object>
 </annotation>

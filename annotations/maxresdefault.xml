@@ -1,5 +1,5 @@
 <annotation>
-  <folder>images/irfan</folder>
+  <folder>images/nafi</folder>
   <filename>maxresdefault.jpg</filename>
   <segmented>0</segmented>
   <size>
@@ -13,10 +13,22 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>432</xmin>
-      <ymin>615</ymin>
-      <xmax>768</xmax>
-      <ymax>987</ymax>
+      <xmin>458</xmin>
+      <ymin>603</ymin>
+      <xmax>764</xmax>
+      <ymax>971</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>464</xmin>
+      <ymin>621</ymin>
+      <xmax>764</xmax>
+      <ymax>971</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>pocari.jpg</filename>
+  <filename>unnamed.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>496</width>
-    <height>388</height>
+    <width>900</width>
+    <height>900</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>101</xmin>
-      <ymin>99</ymin>
-      <xmax>219</xmax>
-      <ymax>198</ymax>
+      <xmin>65</xmin>
+      <ymin>2</ymin>
+      <xmax>409</xmax>
+      <ymax>893</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>99</xmin>
-      <ymin>99</ymin>
-      <xmax>219</xmax>
-      <ymax>198</ymax>
+      <xmin>77</xmin>
+      <ymin>2</ymin>
+      <xmax>409</xmax>
+      <ymax>893</ymax>
     </bndbox>
   </object>
 </annotation>

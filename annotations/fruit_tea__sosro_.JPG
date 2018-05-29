@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>Good-Day-Cappuccino-INIJIE-02.jpg</filename>
+  <filename>fruit_tea__sosro_.JPG</filename>
   <segmented>0</segmented>
   <size>
-    <width>650</width>
-    <height>433</height>
+    <width>1000</width>
+    <height>1779</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>286</xmin>
-      <ymin>129</ymin>
-      <xmax>372</xmax>
-      <ymax>293</ymax>
+      <xmin>222</xmin>
+      <ymin>35</ymin>
+      <xmax>691</xmax>
+      <ymax>1717</ymax>
     </bndbox>
   </object>
 </annotation>

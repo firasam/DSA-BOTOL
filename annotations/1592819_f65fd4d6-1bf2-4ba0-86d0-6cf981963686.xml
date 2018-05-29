@@ -1,10 +1,10 @@
 <annotation>
   <folder>images/nafi</folder>
-  <filename>IMG_1277.JPG</filename>
+  <filename>1592819_f65fd4d6-1bf2-4ba0-86d0-6cf981963686.jpg</filename>
   <segmented>0</segmented>
   <size>
-    <width>240</width>
-    <height>320</height>
+    <width>300</width>
+    <height>493</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>37</xmin>
+      <xmin>42</xmin>
       <ymin>12</ymin>
-      <xmax>153</xmax>
-      <ymax>296</ymax>
+      <xmax>194</xmax>
+      <ymax>477</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>35</xmin>
+      <xmin>53</xmin>
       <ymin>12</ymin>
-      <xmax>153</xmax>
-      <ymax>296</ymax>
+      <xmax>194</xmax>
+      <ymax>477</ymax>
     </bndbox>
   </object>
   <object>
@@ -37,10 +37,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>35</xmin>
-      <ymin>9</ymin>
-      <xmax>153</xmax>
-      <ymax>296</ymax>
+      <xmin>53</xmin>
+      <ymin>12</ymin>
+      <xmax>194</xmax>
+      <ymax>477</ymax>
     </bndbox>
   </object>
 </annotation>
