@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/irfan</folder>
+  <filename>IMG_20180528_183610.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2304</width>
+    <height>4096</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>botol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>1036</ymin>
+      <xmax>2294</xmax>
+      <ymax>3296</ymax>
+    </bndbox>
+  </object>
+</annotation>
