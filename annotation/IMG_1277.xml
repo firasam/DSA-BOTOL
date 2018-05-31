@@ -1,10 +1,10 @@
 <annotation>
-  <folder>images/nafi</folder>
-  <filename>images.jpg</filename>
+  <folder>images/irfan</folder>
+  <filename>IMG_1277.JPG</filename>
   <segmented>0</segmented>
   <size>
-    <width>259</width>
-    <height>194</height>
+    <width>240</width>
+    <height>320</height>
     <depth>3</depth>
   </size>
   <object>
@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>12</xmin>
-      <ymin>15</ymin>
-      <xmax>231</xmax>
-      <ymax>182</ymax>
+      <xmin>22</xmin>
+      <ymin>3</ymin>
+      <xmax>158</xmax>
+      <ymax>298</ymax>
     </bndbox>
   </object>
 </annotation>

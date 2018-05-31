@@ -13,7 +13,7 @@ from scipy import misc
 from scipy import linalg
 from PIL import Image
 from skimage import io, img_as_float, img_as_uint
-from skimage.measure import structural_similarity as ssim
+from skimage.measure import compare_ssim as ssim
 
 def combine(U, S, V):
 	return np.dot(np.dot(U, S), V)
@@ -199,6 +199,7 @@ def main():
 			if len(args.k) != img.shape[2]:
 				print "Provide correct number of k values (%r)" % img.shape[2]
 				return 
+			print(img.shape[2])
 			compressed = svd_compress_rgb(img, args.k[0], args.k[1], args.k[2])
 		else:
 			compressed = svd_compress_gs(img, args.k[0])
