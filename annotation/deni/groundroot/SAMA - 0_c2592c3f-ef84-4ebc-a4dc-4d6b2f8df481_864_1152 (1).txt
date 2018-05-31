@@ -1,0 +1,10 @@
+botol 0 33 69 197
+botol 0 34 69 197
+botol 0 34 69 197
+botol 0 34 98 197
+botol 57 0 122 122
+botol 57 0 122 122
+botol 57 0 124 126
+botol 121 10 199 130
+botol 125 10 199 142
+botol 125 10 199 142
