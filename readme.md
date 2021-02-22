@@ -1,3 +1,4 @@
+Annotation tool for DSA trash identifier image data
 TODO 
 
 1. python GUI.py
